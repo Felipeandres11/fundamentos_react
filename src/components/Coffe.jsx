@@ -1,4 +1,4 @@
-function Coffe(){
+export function Coffe(){
    
     const datos = {
     nombre: "Felipe",
@@ -11,6 +11,5 @@ function Coffe(){
         <h1>{datos.edad}</h1>
     </div>
    )
-   
+
 }
-export default Coffe;
