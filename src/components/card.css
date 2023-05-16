@@ -3,6 +3,11 @@
     color: white;
     padding: 10px;
 }
+
+.image{
+    width: 100px;
+}
+
 .on{
     background-color:#47dd34;
 }
